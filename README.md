@@ -1,4 +1,3 @@
-# FrontEnd JavaScript Development
 <html lang="en">
 <head>
 <title>Stevan Stojanović Mokranjac</title><meta charset="UTF-8">
